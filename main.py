@@ -14,7 +14,7 @@ print("\nListado de estudiantes")
 2455724
 1639523
 1563824
-2427124
+print("Héctor Jordin Adolfo García Coyoy")
 1665924
 1506124
 1547624
